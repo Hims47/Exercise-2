@@ -1,0 +1,14 @@
+* {
+    background-color: orange;
+}
+.Phone li:last-child {
+    background-color: blue;
+}
+
+.Phone li:first-child {
+    background-color: rgb(255, 0, 0);
+}
+
+.last {
+    background-color: blueviolet;
+}
